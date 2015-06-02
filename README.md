@@ -1,6 +1,6 @@
-## Your Name
+## Joseph Knowles
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I'm a recent graduate with a broad range of skills and a particular interest in software design. I'm one of the first people to complete a highly intensive, London based, full time coding bootcamp remotely, where I created a fully functional 'garden sharing' web app in just two weeks. I created this to match the needs of a real client as part of a small team of developers. I'm looking for a fun workplace with interesting people who will allow me to continue learning at the fast pace I currently am, while pushing me into new and exciting areas of emerging technology.
 
 ## Skills
 
