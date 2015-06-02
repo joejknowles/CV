@@ -40,13 +40,22 @@ Solid general javascript skills with the ability to pick-up new technologies qui
 **Freelance** (October to November 2014)    
 *English teacher and au pair in Spain*
   - I lived with a couple of Spanish families and helped them improve their English.
+  
+
+
 **Hipica Xerta (a horse farm in Spain)** (September to October 2014)   
 *Translator and stable boy*  
   - Helped the English stable owner to communicate with and manage her Spanish workers
   - Was responsible for the upkeep of 9 horses
+  
+
+
 **Age UK** (July to September 2014)
 *Shop Assistant*
   - I sorted and cleaned donations as well as assisting on the shop floor
+  - 
+  
+
 **Computer Repairs Center (Batley)** (August to October 2013)
   - Software debugging
   - Laptop, desktop and sat-nav hardware diagnostics
