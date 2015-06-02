@@ -8,7 +8,7 @@ A recent university and Makers Academy graduate with a broad range of skills and
 
 Spent 16 weeks at Makers Academy honing my programming skills with a strong focus on TDD and OOP. 
 
-- 4 Kyu on codewars[http://www.codewars.com/users/joejknowles]
+- 4 Kyu on codewars(http://www.codewars.com/users/joejknowles)
 
 #### Pair programming
 
@@ -23,7 +23,6 @@ Solid general javascript skills with the ability to pick-up new technologies qui
 #### Makers Academy (February to June 2015)
 
 - Self-motivated to complete all challenges to above specification
-- 
 
 #### University of York
 
