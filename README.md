@@ -49,12 +49,10 @@ Solid general javascript skills with the ability to pick-up new technologies qui
   - Was responsible for the upkeep of 9 horses
   
 
-
 **Age UK** (July to September 2014)
 *Shop Assistant*
-  - I sorted and cleaned donations as well as assisting on the shop floor
-  - 
-  
+  - I sorted and cleaned donations
+  - Worked the till
 
 **Computer Repairs Center (Batley)** (August to October 2013)
   - Software debugging
