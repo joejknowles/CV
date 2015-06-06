@@ -10,6 +10,14 @@ Spent 16 weeks at Makers Academy honing my programming skills with a strong focu
 
 - 4 Kyu on codewars(http://www.codewars.com/users/joejknowles)
 
+#### Agile and best practices
+
+Agile process was followed strictly throughout the course including: 
+
+- Daily standups
+- Pair programming
+- Code reviews
+
 #### Pair programming
 
 I completed the course remotely so I pair programmed over videocalls, requiring that I demonstrate outstanding communication skills. Despite obvious obstacles I still finished all the same projects as the people completing the course in person, including an extra group project in our free week.
@@ -17,6 +25,11 @@ I completed the course remotely so I pair programmed over videocalls, requiring 
 #### Javascript
 
 Solid javascript skills with the ability to pick-up new technologies quickly, gaining effective familiarity with various frameworks such as Node.js, Angular and express.js in less than a week. 
+
+#### Git
+
+- Every project has been version controlled using git.
+- Github used to back up projects and for collaboration.
 
 ## Education
 
