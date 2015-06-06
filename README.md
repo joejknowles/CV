@@ -8,7 +8,7 @@ A recent university and Makers Academy graduate with a broad range of skills and
 
 Spent 16 weeks at Makers Academy honing my programming skills with a strong focus on TDD and OOP. 
 
-- 4 Kyu on codewars(http://www.codewars.com/users/joejknowles)
+- 4 Kyu on [codewars](http://www.codewars.com/users/joejknowles)
 
 #### Agile and best practices
 
