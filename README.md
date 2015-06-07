@@ -6,25 +6,10 @@ A recent university and Makers Academy graduate with a broad range of skills and
 
 #### Ruby
 
-Spent 16 weeks at Makers Academy honing my programming skills with a strong focus on TDD and OOP. 
+Spent 16 weeks at Makers Academy honing my programming skills with a strong focus on TDD and OOP. Developed core ruby skills with best practices while applying Sandy Metz's Object Oriented Programming guidelines to complete several projects on the course. Then applied these skills to web development by quickly adapting to different frameworks (Rails and Sinatra) to create multiple unique applications.
 
+- Find projects I've completed on this guthub account
 - 4 Kyu on [codewars](http://www.codewars.com/users/joejknowles)
-
-#### Agile and best practices
-
-Agile process was followed strictly throughout the course including: 
-
-- Daily standups
-- Pair programming
-- Code reviews
-
-#### Pair programming
-
-I completed the course remotely so I pair programmed over videocalls, requiring that I demonstrate outstanding communication skills. Despite obvious obstacles I still finished all the same projects as the people completing the course in person, including an extra group project in our free week.
-
-#### Javascript
-
-Solid javascript skills with the ability to pick-up new technologies quickly, gaining effective familiarity with various frameworks such as Node.js, Angular and express.js in less than a week. 
 
 #### Git
 
@@ -33,11 +18,30 @@ Git has become an essential part of my programming toolkit and I have relied on 
 - Every project has been version controlled using git.
 - Github used to back up projects and for collaboration.
 
+
+#### Agile and best practices
+
+I have a practical understanding of core agile concepts and their implementations from applying them to many projects. The agile process was followed strictly throughout the course including: 
+
+- Daily standups
+- Pair programming
+- Code reviews
+- retrospectives
+
+#### Pair programming (including remote pair programming)
+
+I completed the Makers Academy course remotely so I learned by pair programming over videocalls (specifically google hangouts, which I suppose I'm an expert in now). This required that I demonstrate outstanding communication skills to clearly convey programming specifics as well as more abstract software concepts. Despite obvious obstacles we still finished all the same projects as the people completing the course at the London HQ, including an extra group project in our free week.
+
+#### Javascript
+
+On several applications I have displayed solid core javascript skills as well as the ability to pick-up new technologies quickly. As part of the course I gained effective familiarity with various frameworks such as Node.js, Angular and express.js in less than a week. 
+
 ## Education
 
 #### Makers Academy (February to June 2015)
 
-- Self-motivated to complete all challenges to above specification
+- Showed my driven nature by working many hours on evenings and weekends on top of core course time
+- Completed all challenges to above specification long before deadlines
 
 #### University of York
 
