@@ -28,6 +28,8 @@ Solid javascript skills with the ability to pick-up new technologies quickly, ga
 
 #### Git
 
+Git has become an essential part of my programming toolkit and I have relied on many of its features to be extremely productive. We have used it to its full potential including best practice use of branches (as taught by a github employee) to simultaneously deliver separate features and to deploy to separate servers automatically on heroku. It has allowed multiple pairs of us to program on the same project at computers literally thousands of miles apart.
+
 - Every project has been version controlled using git.
 - Github used to back up projects and for collaboration.
 
