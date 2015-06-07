@@ -63,7 +63,7 @@ Git has become an essential part of my programming toolkit and I have relied on 
   - Was responsible for the upkeep of 9 horses
 
 
-**Age UK** (July to September 2014)
+**Hipica Xerta (a horse farm in Spain)** (September to October 2014)   
 *Translator and stable boy*  
   - I sorted and cleaned donations
   - Worked the till
