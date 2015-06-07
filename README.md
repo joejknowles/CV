@@ -63,8 +63,8 @@ On several applications I have displayed solid core javascript skills as well as
 
 **Hipica Xerta (a horse farm in Spain)** (September to October 2014)   
 *Translator and stable boy (... seriously)*  
-  - Helped the English stable owner to communicate with and manage her Spanish workers
-  - Was responsible for the upkeep of 9 horses
+  - Helped the English owner to communicate with and manage her Spanish workers
+  - Was responsible for the upkeep of 9 horses along with their enclosures
 
 
 **Age UK** (July to September 2014)   
