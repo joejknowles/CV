@@ -1,6 +1,6 @@
 ## Joseph Knowles
 
-An endlessly curious human being who recently graduated from university and then Makers Academy. I have a broad range of skills and a particular interest in software design. I'm one of the first people to complete Makers Academy's highly intensive, full time coding bootcamp remotely, where I created a fully functional 'garden sharing' web app in just two weeks. I created this to match the needs of a real client as part of a small team of developers. I'm hoping to join a jovial work environment with interesting people who will allow me to continue learning at the fast pace I currently am doing, while pushing me into new and exciting areas of emerging technology.
+An endlessly curious human being who recently graduated from university and then Makers Academy. I have a broad range of skills and a particular interest in software design. I'm one of the first people to complete Makers Academy's highly intensive, full time coding bootcamp remotely, where I created a fully functional 'garden sharing' web app in just two weeks. I designed it to match the needs of a real client as part of a small team of developers. I'm hoping to join a jovial work environment with interesting people who will allow me to continue learning at the fast pace I currently am doing, while pushing me into new and exciting areas of emerging technology.
 
 ## Skills
 
