@@ -8,7 +8,8 @@ An endlessly curious human being who recently graduated from university and then
 
 I spent 16 weeks with Makers Academy honing my programming skills with a strong focus on TDD and OOP. I developed core ruby skills following best practices while applying Sandy Metz's Object Oriented Programming guidelines to complete several projects on the course. Then applied these skills to web development by quickly adapting to different frameworks (Rails and Sinatra) to create multiple unique applications.
 
-- For examples see my final project [Lend and Tend](http://pacific-tundra-1942.herokuapp.com) or Chitter, a well featured social network I created alone within 5 weeks of starting the course, [here](http://thechitter.herokuapp.com/trending)
+- For example see my final project [Lend and Tend](http://pacific-tundra-1942.herokuapp.com) 
+- Another application I made, Chitter, is a well featured social network I created alone within 5 weeks of starting the course, take a look [here](http://thechitter.herokuapp.com/trending)
 - Find all other projects I've completed on this guthub account
 - 4 Kyu on [codewars](http://www.codewars.com/users/joejknowles)
 
