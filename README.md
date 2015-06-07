@@ -64,10 +64,9 @@ Git has become an essential part of my programming toolkit and I have relied on 
 
 
 **Age UK** (July to September 2014)
-*Shop Assistant*
+*Translator and stable boy*  
   - I sorted and cleaned donations
   - Worked the till
-
 
 **Computer Repairs Center (Batley)** (August to October 2013)
 *Shop Assistant*
