@@ -1,14 +1,15 @@
 ## Joseph Knowles
 
-A recent university and Makers Academy graduate with a broad range of skills and a particular interest in software design. I'm one of the first people to complete Makers Academy's highly intensive, full time coding bootcamp remotely, where I created a fully functional 'garden sharing' web app in just two weeks. I created this to match the needs of a real client as part of a small team of developers. I'm hoping to join a jovial work environment with interesting people who will allow me to continue learning at the fast pace I currently am, while pushing me into new and exciting areas of emerging technology.
+An endlessly curious human being who recently graduated from university and then Makers Academy. I have a broad range of skills and a particular interest in software design. I'm one of the first people to complete Makers Academy's highly intensive, full time coding bootcamp remotely, where I created a fully functional 'garden sharing' web app in just two weeks. I created this to match the needs of a real client as part of a small team of developers. I'm hoping to join a jovial work environment with interesting people who will allow me to continue learning at the fast pace I currently am doing, while pushing me into new and exciting areas of emerging technology.
 
 ## Skills
 
 #### Ruby
 
-Spent 16 weeks at Makers Academy honing my programming skills with a strong focus on TDD and OOP. Developed core ruby skills with best practices while applying Sandy Metz's Object Oriented Programming guidelines to complete several projects on the course. Then applied these skills to web development by quickly adapting to different frameworks (Rails and Sinatra) to create multiple unique applications.
+I spent 16 weeks with Makers Academy honing my programming skills with a strong focus on TDD and OOP. I developed core ruby skills following best practices while applying Sandy Metz's Object Oriented Programming guidelines to complete several projects on the course. Then applied these skills to web development by quickly adapting to different frameworks (Rails and Sinatra) to create multiple unique applications.
 
-- Find projects I've completed on this guthub account
+- For examples see my final project [Lend and Tend](http://pacific-tundra-1942.herokuapp.com) or Chitter, a well featured social network I created alone within 5 weeks of starting the course, [here](http://thechitter.herokuapp.com/trending)
+- Find all other projects I've completed on this guthub account
 - 4 Kyu on [codewars](http://www.codewars.com/users/joejknowles)
 
 #### Git
