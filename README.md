@@ -8,7 +8,7 @@ An endlessly curious human being with a broad range of skills and a particular i
 
 I spent 16 weeks with Makers Academy developing exceptional programming capabilities with a strong focus on TDD and OOP. I mastered core ruby skills, following best practices while applying Sandy Metz's Object Oriented Programming guidelines, to complete several projects on the course. Then applied these skills to web development by quickly adapting to different frameworks (Rails and Sinatra) to create multiple unique web-applications.
 
-- For example see my final project [Lend and Tend](http://pacific-tundra-1942.herokuapp.com) the garden sharing app mentioned above, made with 3 other developers and a client who pitched the idea at a charity jamboree in London
+- For example see my final project [Lend and Tend](http://pacific-tundra-1942.herokuapp.com) the garden sharing app mentioned above, made with 3 other developers and a client who pitched the idea at a charity jamboree in London. Check the [github repo](https://github.com/joejknowles/lend_and_tend) out too.
 - Another application, Chitter, is a well featured (although not the *most* attractive) social network I created alone in one weekend within 5 weeks of starting the course, take a look [here](http://thechitter.herokuapp.com)
 - As a pure ruby pursuit I designed an unbeatable, digital 'noughts and crosses' opponent one weekend while completing the pre-course to Makers Academy
 - Find many other projects I've completed on this github account
