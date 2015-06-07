@@ -6,7 +6,7 @@ An endlessly curious human being who recently graduated from university and then
 
 #### Ruby
 
-I spent 16 weeks with Makers Academy developing exceptional programming capabilities with a strong focus on TDD and OOP. I developed core ruby skills, following best practices while applying Sandy Metz's Object Oriented Programming guidelines, to complete several projects on the course. Then applied these skills to web development by quickly adapting to different frameworks (Rails and Sinatra) to create multiple unique applications.
+I spent 16 weeks with Makers Academy developing exceptional programming capabilities with a strong focus on TDD and OOP. I mastered core ruby skills, following best practices while applying Sandy Metz's Object Oriented Programming guidelines, to complete several projects on the course. Then applied these skills to web development by quickly adapting to different frameworks (Rails and Sinatra) to create multiple unique applications.
 
 - For example see my final project [Lend and Tend](http://pacific-tundra-1942.herokuapp.com) the garden sharing app mentioned above, made with 3 other developers and a client who pitched the idea at a charity jamboree in London
 - Another application, Chitter, is a well featured (although not the *most* attractive) social network I created alone in one weekend within 5 weeks of starting the course, take a look [here](http://thechitter.herokuapp.com)
