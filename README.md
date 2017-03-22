@@ -10,7 +10,7 @@ management company where I quickly learned and worked with new technologies, and
 took on technical lead responsibilities for an important £multi-billion project
 within a year of joining the company.
 
-Now I'm looking for an opportunity to use my skills with React.js to efficiently
+I'm looking for an opportunity to use my skills with ReactJS to efficiently
 create excellent user experiences as part of an agile team.
 
 ## Skills
