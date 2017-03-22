@@ -161,4 +161,4 @@ deadlines.
 #### Volunteering
 **Age UK** (July to September 2014) *Shop Assistant*   
   - I sorted and cleaned donations
-  - Worked the till
+  - Worked at the checkout
