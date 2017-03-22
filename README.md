@@ -113,19 +113,23 @@ Projects include:
 
 #### Makers Academy (February to June 2015)
 
-- Showed my driven nature by working many hours on evenings and weekends on top of core course time
-- Completed all challenges to above specification long before deadlines
+This course culminated in designing a fully functional 'garden sharing' web app in just two weeks to match the
+needs of a real client, as part of a small team of developers. During the course I showed my
+driven nature by working many hours on evenings and weekends on top of core
+course time and completing all challenges above specification long before
+deadlines.
 
 #### University of York
 
-- Biology BSc
-- 2:1
-- Learnt Spanish from nothing to conversational proficiency during final year
+- Biology BSc 2:1 (2010 - 2015)
+  - Mainly focussing on genetics and molecular biomedicine
+  - Completed a final project involving computational analysis of DNA
+  - Completed a Spanish elective during my final year, went from nothing to conversational proficiency in less than a year
+
 
 #### ABRSM
 
-- Piano
-- Grade 8
+- Piano Grade 8
 
 ## Experience
 
