@@ -58,7 +58,7 @@ Jest framework.
 #### Pair programming (including remote pair programming)
 
 I completed the Makers Academy course remotely so I learned by pair programming
-over videocalls (specifically google hangouts, which I suppose I'm an expert in
+over video-calls (specifically google hangouts, which I suppose I'm an expert in
 now). This required that I demonstrate outstanding communication skills to
 clearly convey programming specifics as well as more abstract software concepts.
 Despite obvious obstacles we still finished all the same projects as the people
