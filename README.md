@@ -17,12 +17,13 @@ create excellent user experiences as part of an agile team.
 
 #### Clean code
 
-The medium- and long-term maintainability and extensibility of code is essential
-for highly productive web-development. This is why I am continually focussed on
+The longer-term maintainability and extensibility of code is essential
+for highly productive web-development. I've seen how varying degrees of code
+quality can influence this. That's why I am continually focussed on
 understanding and applying both industry standard and emerging techniques for
 achieving cleaner code.
 
-I applied and improved this skill on the company's applications during previous employment,
+I applied and improved this skill working on applications during my last job,
 my portfolio below contains some examples of me applying this knowledge to small
 personal projects. The code is all freely available on GitHub at the links below.
 
@@ -121,7 +122,7 @@ deadlines.
 
 #### University of York
 
-- Biology BSc 2:1 (2010 - 2015)
+- Biology BSc 2:1 (2010 - 2014)
   - Mainly focussing on genetics and molecular biomedicine
   - Completed a final project involving computational analysis of DNA
   - Completed a Spanish elective during my final year, went from nothing to conversational proficiency in less than a year
