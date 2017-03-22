@@ -90,7 +90,7 @@ projects for now (these will soon be found on [my website](http://joejknowl.es/)
 
 Projects include:
 
-- Table
+- [Table](https://github.com/joejknowles/Table)
 
     - A multi-screen gaming platform   
     - Local social gaming without the set-up / clear-up of traditional table-top games
@@ -98,12 +98,12 @@ Projects include:
     - Mobile swipe gestures on mobile devices
     - Uses sockets for instant live gameplay
 
-- Open-Up
+- [Open-Up](https://github.com/joejknowles/open-up)
 
     - Simple booking interface
     - animated notifications and errors
 
-- Goal Tracker
+- [Goal Tracker](https://github.com/joejknowles/thingTracker)
 
     - Track daily progress towards long-term goals
     - Alternative gamification service without the typical 'streak' concept
