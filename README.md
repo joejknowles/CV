@@ -46,12 +46,13 @@ most work satisfaction knowing I'm building experiences that are most useful to
 end users, and these iterative frameworks ensure this is done effectively in the
 shortest time possible.
 
-I have a practical understanding of core agile concepts and their implementations from applying them to many projects. The agile process was followed strictly throughout the course including:
+#### TDD & BDD
 
-- Daily standups
-- Pair programming
-- Code reviews
-- retrospectives
+Test Driven Development is foundational to my approach to software. It was a
+central part of my initial training, and has continued to guide my work on
+personal projects which can be seen it my portfolio. The same is true for BDD,
+my portfolio includes a small wrapper for PhantomJS, which makes
+testing of user interactions on a node/express application simple.
 
 #### Pair programming (including remote pair programming)
 
