@@ -52,7 +52,8 @@ Test Driven Development is foundational to my approach to software. It was a
 central part of my initial training, and has continued to guide my work on
 personal projects which can be seen it my portfolio. The same is true for BDD,
 my portfolio includes a small wrapper for PhantomJS, which makes
-testing of user interactions on a node/express application simple.
+testing of user interactions on a node/express application simple within Facebook's
+Jest framework.
 
 #### Pair programming (including remote pair programming)
 
