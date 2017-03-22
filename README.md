@@ -63,7 +63,7 @@ over video-calls (specifically google hangouts, which I suppose I'm an expert in
 now). This required that I demonstrate outstanding communication skills to
 clearly convey programming specifics as well as more abstract software concepts.
 
-###Technologies
+### Technologies
 
 Main technologies I know and particularly want to work with:
 
