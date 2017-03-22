@@ -30,8 +30,10 @@ personal projects. The code is all freely available on GitHub at the links below
 
 I was taught the core concepts of agile as part of my
 software development training at Makers Academy. The course was  project based,
-and  these projects were all completed in an agile manner, while the company
-Makers Academy itself adhered closely to agile principles.
+and  these projects were all completed in an agile manner. The company
+Makers Academy itself adhered closely to agile principles, giving me first
+hand experience of the agile processes within an extremely successful start up
+early on in my career.
 
 My role at my first job after Makers Academy involved agile evangelism. The
 company was large and previously worked with waterfall processes. At first I
