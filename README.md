@@ -61,35 +61,26 @@ I completed the Makers Academy course remotely so I learned by pair programming
 over video-calls (specifically google hangouts, which I suppose I'm an expert in
 now). This required that I demonstrate outstanding communication skills to
 clearly convey programming specifics as well as more abstract software concepts.
-Despite obvious obstacles we still finished all the same projects as the people
-completing the course at the London HQ, including an extra group project in our
-free week.
 
-###Technologies Summary - learned a variety, now focussed on ...
+###Technologies
 
-#### Ruby
+Main technologies I know and particularly want to work with:
 
-I spent 16 weeks with Makers Academy developing exceptional programming
-capabilities with a strong focus on TDD and OOP. I mastered core ruby skills,
-following best practices while applying Sandy Metz's Object Oriented Programming
-guidelines, to complete several projects on the course. Then applied these
-skills to web development by quickly adapting to different frameworks (Rails and
-Sinatra) to create multiple unique web-applications.
+- React.js
+- Various React compatible libraries - Redux / Redux-saga / React-router
+- Webpack
+- React-Native
+- Git + GitHub
+- Various testing frameworks such as 'Jest' for react and 'Rspec' for Ruby
+- Node / express
+- Ruby on Rails
 
-#### Git
+I've worked with a wide variety of languages and frameworks from my beginnings with
+Ruby (on Rails) to currently working mostly with javascript, especially React and Node.
+I'm particularly drawn to react and find myself fairly deep in the vast ecosystem that it
+occupies.
 
-Git has become an essential part of my programming toolkit and I have relied on
-many of its features to be extremely productive. We have used it to its full
-potential including best practice use of branches (as taught by a github
-employee) to simultaneously deliver separate features and to deploy to separate
-servers automatically on heroku. It has allowed multiple pairs of us to program
-on the same project at computers literally thousands of miles apart.
-
-- Every project has been version controlled using git. Github used to back up
-- projects and for collaboration.
-
-#### Javascript
-
+Other technologies I'm comfortable with include: HTML+CSS, C#, ASP.NET, VB, plain javascript, AWS, CI (Travis, TeamCity), AccuRev.
 
 ## Portfolio
 
