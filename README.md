@@ -24,13 +24,23 @@ I applied and improved this skill on private projects during previous employment
 my portfolio below contains some examples of me applying this knowledge to small
 personal projects. The code is all freely available on GitHub at the links below.
 
-Git has become an essential part of my programming toolkit and I have relied on many of its features to be extremely productive. We have used it to its full potential including best practice use of branches (as taught by a github employee) to simultaneously deliver separate features and to deploy to separate servers automatically on heroku. It has allowed multiple pairs of us to program on the same project at computers literally thousands of miles apart.
+#### Agile / scrum
 
-- Every project has been version controlled using git.
-- Github used to back up projects and for collaboration.
+I was taught the core concepts of agile as part of my
+software development training at Makers Academy. The course was  project based,
+and  these projects were all completed in an agile manner, while the company
+Makers Academy itself adhered closely to agile principles.
 
+My role at my first job after Makers Academy involved agile evangelism. The
+company was large and previously worked with waterfall processes. At first I
+worked as part of  a small internal agile team to demonstrate the efficacy of
+these practices, after that success I moved into client delivery to apply
+agile doctrines more widely within the company.
 
-#### Agile and best practices
+I like to work within modern project management frameworks like agile. I get the
+most work satisfaction knowing I'm building experiences that are most useful to
+end users, and these iterative frameworks ensure this is done effectively in the
+shortest time possible.
 
 I have a practical understanding of core agile concepts and their implementations from applying them to many projects. The agile process was followed strictly throughout the course including:
 
