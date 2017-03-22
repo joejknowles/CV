@@ -103,7 +103,7 @@ Projects include:
     - Simple booking interface
     - animated notifications and errors
 
-- [Goal Tracker](https://github.com/joejknowles/thingTracker)
+- [Goal Tracker](https://github.com/joejknowles/goalTracker)
 
     - Track daily progress towards long-term goals
     - Alternative gamification service without the typical 'streak' concept
