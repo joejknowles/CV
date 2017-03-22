@@ -1,12 +1,12 @@
 ## Joseph Knowles
 
 An endlessly curious human being with a broad range of skills and an obsession
-with good software design. I was part of the first cohort to complete Makers
-Academy's highly intensive, full time coding bootcamp remotely. After Makers
-Academy I worked in the Czech Republic for a large wealth management company
-where I quickly learned and worked with new technologies and took on technical
-lead responsibilities for an important £multi-billion project within a year of
-joining the company.
+with good software design. Two years ago I was part of the first cohort to
+complete Makers Academy's highly intensive, full time coding bootcamp remotely.
+After Makers Academy I worked in the Czech Republic for a large wealth
+management company where I quickly learned and worked with new technologies, and
+took on technical lead responsibilities for an important £multi-billion project
+within a year of joining the company.
 
 Now I'm looking for an opportunity to use my skills with React.js to efficiently
 create excellent user experiences as part of an agile team.
