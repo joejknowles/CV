@@ -11,17 +11,18 @@ within a year of joining the company.
 Now I'm looking for an opportunity to use my skills with React.js to efficiently
 create excellent user experiences as part of an agile team.
 
-#### Ruby
+## Skills
 
-I spent 16 weeks with Makers Academy developing exceptional programming capabilities with a strong focus on TDD and OOP. I mastered core ruby skills, following best practices while applying Sandy Metz's Object Oriented Programming guidelines, to complete several projects on the course. Then applied these skills to web development by quickly adapting to different frameworks (Rails and Sinatra) to create multiple unique web-applications.
+### Clean code
 
-- For example see my final project [Lend and Tend](http://pacific-tundra-1942.herokuapp.com) the garden sharing app mentioned above, made with 3 other developers and a client who pitched the idea at a charity jamboree in London. Check the [github repo](https://github.com/joejknowles/lend_and_tend) out too.
-- Another application, Chitter, is a well featured (although not the *most* attractive) social network I created alone in one weekend within 5 weeks of starting the course, take a look [here](http://thechitter.herokuapp.com)
-- As a pure ruby pursuit I designed an unbeatable, digital 'noughts and crosses' opponent one weekend while completing the pre-course to Makers Academy
-- Find many other projects I've completed on this github account
-- 4 Kyu on [codewars](http://www.codewars.com/users/joejknowles)
+The medium- and long-term maintainability and extensibility of code is essential
+for highly productive web-development. This is why I am continuously focussed on
+understanding and applying both industry standard and emerging techniques for
+achieving clean code.
 
-#### Git
+I applied and improved this skill on private projects during previous employment,
+my portfolio below contains some examples of me applying this knowledge to small
+personal projects. The code is all freely available on GitHub at the links below.
 
 Git has become an essential part of my programming toolkit and I have relied on many of its features to be extremely productive. We have used it to its full potential including best practice use of branches (as taught by a github employee) to simultaneously deliver separate features and to deploy to separate servers automatically on heroku. It has allowed multiple pairs of us to program on the same project at computers literally thousands of miles apart.
 
