@@ -18,11 +18,11 @@ create excellent user experiences as part of an agile team.
 ### Clean code
 
 The medium- and long-term maintainability and extensibility of code is essential
-for highly productive web-development. This is why I am continuously focussed on
+for highly productive web-development. This is why I am continually focussed on
 understanding and applying both industry standard and emerging techniques for
-achieving clean code.
+achieving cleaner code.
 
-I applied and improved this skill on private projects during previous employment,
+I applied and improved this skill on the company's applications during previous employment,
 my portfolio below contains some examples of me applying this knowledge to small
 personal projects. The code is all freely available on GitHub at the links below.
 
