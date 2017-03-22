@@ -133,23 +133,31 @@ deadlines.
 
 ## Experience
 
-**Freelance** (October to November 2014)    
-*English teacher and au pair in Spain*
-  - I lived with a couple of Spanish families and helped them improve their English.
+**FNZ (Czechia)** (August 2015 - December 2016)
+ *Developer*   
 
+- Began working in a small internal agile team developing a Proof of Concept application in .NET for a new innovative product
+- Moved into client delivery after ~6 months to spread agile doctrines
+- Quickly picked up react and started working on the development of a new front end platform
+- Became responsible for this large react project which involved:
+    - Technical guidance for an outsourced team of developers
+    - Providing technical consultation for client requirements and new business queries reporting directly to senior management
+    - Providing build estimates for all front-end requirements
+    - I was solely responsible for teaching both junior and senior local developers how to work on the MVC application and gave guidance on best practices through code reviews
+    - Ensuring the CI passed or was immediately fixed
 
-**Hipica Xerta (a horse farm in Spain)** (September to October 2014)   
-*Translator and stable boy (... seriously)*  
+##### Various temporary jobs while travelling around Spain in late 2014 including:
+**-** (October to November 2014)
+*English teacher and au pair in Madrid*
+
+- I lived with some Spanish families and helped them improve their English.
+
+**Hipica Xerta (a horse farm in Barcelona)** (September to October 2014) *Translator and stable manager*   
+
   - Helped the English owner to communicate with and manage her Spanish workers
   - Was responsible for the upkeep of 9 horses along with their enclosures
 
-
-**Age UK** (July to September 2014)   
-*Shop Assistant*  
+#### Volunteering
+**Age UK** (July to September 2014) *Shop Assistant*   
   - I sorted and cleaned donations
   - Worked the till
-
-**Computer Repairs Center (Batley)** (August to October 2013)   
-*Shop Assistant*  
-  - Software troubleshooting
-  - Laptop, desktop and sat-nav hardware diagnostics
