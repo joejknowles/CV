@@ -89,7 +89,33 @@ on the same project at computers literally thousands of miles apart.
 
 #### Javascript
 
-On several applications I have displayed solid core javascript skills as well as the ability to pick-up new technologies quickly. As part of the course I gained effective familiarity with various frameworks such as Node.js, Angular and express.js in less than a week.
+
+## Portfolio
+
+Please see [my github profile](https://github.com/joejknowles) for my latest
+projects for now (these will soon be found on [my website](http://joejknowl.es/)).
+
+Projects include:
+
+- Table
+
+    - A multi-screen gaming platform
+    - Local social gaming without the set-up / clear-up of traditional table-top games
+    - Responsive design adapts to device
+    - Mobile swipe gestures on mobile devices
+    - Uses sockets for instant live gameplay
+
+- Open-Up
+
+    - Simple booking interface
+    - animated notifications and errors
+
+- Goal Tracker
+
+    - Track daily progress towards long-term goals
+    - Alternative gamification service without the typical 'streak' concept
+    - Simple SVG info-graphics indicate progress in an easy to understand way
+    - Encourages consistent sustainable effort
 
 ## Education
 
