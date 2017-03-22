@@ -122,7 +122,7 @@ deadlines.
 
 #### University of York
 
-- Biology BSc 2:1 (2010 - 2015)
+- Biology BSc 2:1 (2010 - 2014)
   - Mainly focussing on genetics and molecular biomedicine
   - Completed a final project involving computational analysis of DNA
   - Completed a Spanish elective during my final year, went from nothing to conversational proficiency in less than a year
