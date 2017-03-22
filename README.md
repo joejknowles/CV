@@ -15,7 +15,7 @@ create excellent user experiences as part of an agile team.
 
 ## Skills
 
-### Clean code
+#### Clean code
 
 The medium- and long-term maintainability and extensibility of code is essential
 for highly productive web-development. This is why I am continually focussed on
