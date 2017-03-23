@@ -2,13 +2,10 @@
 
 ## Joseph Knowles
 
-An endlessly curious human being with a broad range of skills and an obsession
-with good software design. Two years ago I was part of the first cohort to
-complete Makers Academy's highly intensive, full time coding bootcamp remotely.
-After Makers Academy I worked in the Czech Republic for a large wealth
-management company where I quickly learned and worked with new technologies, and
-took on technical lead responsibilities for an important £multi-billion project
-within a year of joining the company.
+An endlessly curious human with a broad range of skills and an obsession
+with good software design. Shortly after completing an intensive coding bootcamp 
+I moved to the Czech Republic and took on technical lead responsibilities for an 
+important £multi-billion project within a year of joining the company.
 
 I'm looking for an opportunity to use my skills with ReactJS to efficiently
 create excellent user experiences as part of an agile team.
@@ -17,9 +14,9 @@ create excellent user experiences as part of an agile team.
 
 #### Clean code
 
-The longer-term maintainability and extensibility of code is essential
+The long-term maintainability and extensibility of code is essential
 for highly productive web-development. I've seen how varying degrees of code
-quality can influence this. That's why I am continually focussed on
+quality can influence this and that's why I am continually focussed on
 understanding and applying both industry standard and emerging techniques for
 achieving cleaner code.
 
@@ -51,8 +48,8 @@ shortest time possible.
 
 Test Driven Development is foundational to my approach to software. It was a
 central part of my initial training, and has continued to guide my work on
-personal projects which can be seen it my portfolio. The same is true for BDD,
-my portfolio includes a small wrapper for PhantomJS, which makes
+personal projects which can be seen in [my portfolio](http://joejknowl.es/). The same 
+is true for BDD, I wrote a small wrapper for a headless browser, which makes
 testing of user interactions on a node/express application simple within Facebook's
 Jest framework.
 
@@ -61,7 +58,9 @@ Jest framework.
 I completed the Makers Academy course remotely so I learned by pair programming
 over video-calls (specifically google hangouts, which I suppose I'm an expert in
 now). This required that I demonstrate outstanding communication skills to
-clearly convey programming specifics as well as more abstract software concepts.
+clearly convey programming specifics as well as more abstract software concepts 
+which I then put into practice by teaching other developers via pair programming 
+at FNZ.
 
 ### Technologies
 
@@ -114,7 +113,9 @@ Projects include:
 
 #### Makers Academy (February to June 2015)
 
-This course culminated in designing a fully functional 'garden sharing' web app in just two weeks to match the
+I was part of the first cohort to complete Makers Academy's highly intensive, 
+full time coding bootcamp remotely. This course culminated in designing a fully functional 
+'garden sharing' web app in just two weeks to match the
 needs of a real client, as part of a small team of developers. During the course I showed my
 driven nature by working many hours on evenings and weekends on top of core
 course time and completing all challenges above specification long before
