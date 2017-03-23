@@ -3,9 +3,9 @@
 ## Joseph Knowles
 
 An endlessly curious human with a broad range of skills and an obsession
-with good software design. Shortly after completing an intensive coding bootcamp 
-I moved to the Czech Republic and took on technical lead responsibilities for a 
-React application in an important £multi-billion project within a year of joining 
+with good software design. Shortly after completing an intensive coding bootcamp
+I moved to the Czech Republic and took on lead development responsibilities for a 
+React application in an important £multi-billion project within a year of joining
 the company.
 
 I'm looking for an opportunity to use my skills with ReactJS to efficiently
@@ -49,7 +49,7 @@ shortest time possible.
 
 Test Driven Development is foundational to my approach to software. It was a
 central part of my initial training, and has continued to guide my work on
-personal projects which can be seen in [my portfolio](http://joejknowl.es/). The same 
+personal projects which can be seen in [my portfolio](http://joejknowl.es/). The same
 is true for BDD, I wrote a small wrapper for a headless browser, which makes
 testing of user interactions on a node/express application simple within Facebook's
 Jest framework.
@@ -59,8 +59,8 @@ Jest framework.
 I completed the Makers Academy course remotely so I learned by pair programming
 over video-calls (specifically google hangouts, which I suppose I'm an expert in
 now). This required that I demonstrate outstanding communication skills to
-clearly convey programming specifics as well as more abstract software concepts 
-which I then put into practice by teaching other developers via pair programming 
+clearly convey programming specifics as well as more abstract software concepts
+which I then put into practice by teaching other developers via pair programming
 at FNZ.
 
 ### Technologies
@@ -114,8 +114,8 @@ Projects include:
 
 #### Makers Academy (February to June 2015)
 
-I was part of the first cohort to complete Makers Academy's highly intensive, 
-full time coding bootcamp remotely. This course culminated in designing a fully functional 
+I was part of the first cohort to complete Makers Academy's highly intensive,
+full time coding bootcamp remotely. This course culminated in designing a fully functional
 'garden sharing' web app in just two weeks to match the
 needs of a real client, as part of a small team of developers. During the course I showed my
 driven nature by working many hours on evenings and weekends on top of core
