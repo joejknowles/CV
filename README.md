@@ -155,7 +155,7 @@ deadlines.
 
 - I lived with some Spanish families and helped them improve their English.
 
-**Hipica Xerta (a horse farm in Barcelona)** (September to October 2014) *Translator and stable manager*   
+**Hipica Xerta (a horse farm near Barcelona)** (September to October 2014) *Translator and stable manager*   
 
   - Helped the English owner to communicate with and manage her Spanish workers
   - Was responsible for the upkeep of 9 horses along with their enclosures
