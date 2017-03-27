@@ -12,11 +12,10 @@ create excellent user experiences as part of an agile team.
 #### Clean code
 
 I've worked on a number of code-bases with varying degrees of code
-quality. From this experience I've learned a number of important approaches to keeping code at a high standard, and seen how the long-term maintainability and extensibility of code is essential
+quality. From this experience I've learned many important approaches to keeping code at a high standard, and seen how the long-term maintainability and extensibility of code is essential
 for productive web-development. So I'm continually focussed on understanding and applying both industry standard and emerging techniques for achieving cleaner code.
 
-I applied and improved this skill working on applications during my last job,
-my portfolio below contains some examples of me applying this knowledge to small
+My portfolio below contains some examples of me using this skill in small
 personal projects. The code is all freely available on GitHub at the links below.
 
 #### Agile / scrum
