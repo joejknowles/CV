@@ -11,11 +11,9 @@ create excellent user experiences as part of an agile team.
 
 #### Clean code
 
-The long-term maintainability and extensibility of code is essential
-for highly productive web-development. I've seen how varying degrees of code
-quality can influence this and that's why I am continually focussed on
-understanding and applying both industry standard and emerging techniques for
-achieving cleaner code.
+I've worked on a number of code-bases with varying degrees of code
+quality. From this experience I've learned a number of important approaches to keeping code at a high standard, and seen how the long-term maintainability and extensibility of code is essential
+for productive web-development. So I'm continually focussed on understanding and applying both industry standard and emerging techniques for achieving cleaner code.
 
 I applied and improved this skill working on applications during my last job,
 my portfolio below contains some examples of me applying this knowledge to small
